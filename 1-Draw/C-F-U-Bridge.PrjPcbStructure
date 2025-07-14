@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=COVER PAGE.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=COVER PAGE.SchDoc|FileName=PHY SFC CONN.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=COVER PAGE.SchDoc|FileName=PHY SFC.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=COVER PAGE.SchDoc|FileName=PWR RAIL.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=COVER PAGE.SchDoc|FileName=RGMII USB.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=COVER PAGE.SchDoc|FileName=STM32 MCU.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=COVER PAGE.SchDoc|FileName=USB RGMII CONN.SchDoc|SheetNumber=6
